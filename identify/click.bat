@@ -1,2 +1,0 @@
-cd .py
-Net.exe
