@@ -1,0 +1,43 @@
+read data cost 59.17566 second
+the model which K is 1 cost 101.19315 second
+A model with K of 1 has an accuracy of 0.39235
+
+the model which K is 2 cost 103.17654 second
+A model with K of 2 has an accuracy of 0.35766
+
+the model which K is 3 cost 104.81046 second
+A model with K of 3 has an accuracy of 0.42246
+
+the model which K is 4 cost 113.85034 second
+A model with K of 4 has an accuracy of 0.62091
+
+the model which K is 5 cost 115.52863 second
+A model with K of 5 has an accuracy of 0.62909
+
+the model which K is 6 cost 119.29570 second
+A model with K of 6 has an accuracy of 0.63032
+
+the model which K is 7 cost 108.92201 second
+A model with K of 7 has an accuracy of 0.63046
+
+the model which K is 8 cost 105.33319 second
+A model with K of 8 has an accuracy of 0.62913
+
+the model which K is 9 cost 106.15953 second
+A model with K of 9 has an accuracy of 0.63036
+
+[6372. 7307. 6405. 6602. 6259. 5785. 6345. 6767. 6298. 6422.]
+
+A model with K of 4 has an accuracy of 0.59888
+
+[4892. 5226. 6405. 6602. 6259. 5785. 6345. 6767. 6298. 6422.]
+
+[4685. 3830. 6405. 6602. 6259. 5785. 6345. 6767. 6298. 6422.]
+the model which K is 4 cost 94.17914 second
+A model with K of 4 has an accuracy of 0.59802
+
+read data cost 55.58414 second
+[4685. 3830. 5495. 6452. 6259. 5785. 6345. 6767. 6298. 6422.]
+the model which K is 4 cost 90.07738 second
+A model with K of 4 has an accuracy of 0.59376
+进程已结束,退出代码0
