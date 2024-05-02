@@ -1,2 +1,0 @@
-受制于大小限制，请自行使用pyinstaller将Net.py打包为 Net.exe并放置在py文件夹里（阅读批处理路径）
-模型由于大小无法在github上传，所以实际上需要讲模型命名为K-means放置在classify的py文件夹里
