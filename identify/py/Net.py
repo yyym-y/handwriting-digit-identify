@@ -1,12 +1,22 @@
 from flask import Flask, request
 from flask_cors import CORS
 import Centre
+import os
 
 
 def mainFunc(put):
     return Centre.middle(put)
 
+def init():
+    try:
+        os.makedirs("../data/Img/")
+        os.makedirs("../data/TEXT/Img/")
+        os.makedirs("../data/tem")
+    except:
+        return
 
+
+init()
 app = Flask(__name__)
 CORS(app, supports_credentials=True)
 @app.route('/', methods=['POST'])

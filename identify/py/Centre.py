@@ -47,7 +47,7 @@ def readImg(Road):
     down_points = (down_width, down_height)
     image = cv2.resize(image, down_points, interpolation=cv2.INTER_LINEAR)
     _, image = cv2.threshold(image, 127, 255, cv2.THRESH_BINARY)
-    _, contours, _ = cv2.findContours(image, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
+    contours, _ = cv2.findContours(image, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
     Use = cv2.Canny(image, 10,10)
     cv2.drawContours(image, contours,-1, (0, 255, 0), 2)
     Info = []
