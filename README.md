@@ -23,7 +23,7 @@ Press CTRL+C to quit
 
 > **注意: 由于 Github 对文件大小的限制, 训练好的模型无法直接上传**
 >
-> 模型的下载链接为 : [下载链接]()
+> 模型的下载链接为 : [下载链接](https://cloud.socoding.cn/s/mG9Td)
 >
 > 模型下载好后请放置在 `/identify/py` 目录下, 模型名字命名为 `K-means`
 
